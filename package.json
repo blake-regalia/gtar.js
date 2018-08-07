@@ -1,0 +1,24 @@
+{
+  "name": "gtar",
+  "version": "0.0.1",
+  "description": "The Graph Traversal API for RDF",
+  "keywords": [
+    "linked-data",
+    "rdf",
+    "semantic-web",
+    "graph",
+    "traversal",
+    "sparql",
+    "gremlin"
+  ],
+  "license": "ISC",
+  "author": {
+    "name": "Blake Regalia",
+    "email": "blake.regalia@gmail.com"
+  },
+  "main": "build/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "blake-regalia/gtar.js"
+}
